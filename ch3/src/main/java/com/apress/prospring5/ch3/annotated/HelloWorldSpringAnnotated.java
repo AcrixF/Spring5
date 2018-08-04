@@ -1,6 +1,6 @@
 package com.apress.prospring5.ch3.annotated;
 
-import com.apress.prospring5.ch2.decoupled.MessageRenderer;
+import com.apress.prospring5.ch3.decoupled.MessageRenderer;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

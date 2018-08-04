@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="app-context-xml" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/app-context-xml.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/app-context-xml.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="app-context-xml-constructor" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/app-context-xml-constructor.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="app-context-annotation-contructor" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/app-context-annotation-constructor.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>

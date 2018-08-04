@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ch2" />
-        <module name="ch3" />
+        <module name="ch3.5" />
+        <module name="prospring5 (1) (com.apress.prospring5)" />
+        <module name="prospring5 (2) (com.apress.prospring5.ch3)" />
       </profile>
     </annotationProcessing>
   </component>

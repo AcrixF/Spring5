@@ -1,4 +1,4 @@
-package com.apress.prospring5.ch3.annotated;
+package com.apress.prospring5.ch3.components.javaConfiguration;
 
 import com.apress.prospring5.ch3.decoupled.HelloWorldMessageProvider;
 import com.apress.prospring5.ch3.decoupled.MessageProvider;
@@ -16,7 +16,7 @@ public class HelloWorldConfiguration {
     }
 
     @Bean
-    public MessageRenderer renderer() {
+    MessageRenderer renderer() {
         MessageRenderer renderer = new StandardOutMessageRenderer();
         renderer.setMessageProvider( provider() );
         return renderer;
